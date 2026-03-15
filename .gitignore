@@ -13,3 +13,5 @@ eval
 **/tmp
 models
 .pt
+data
+*.txt

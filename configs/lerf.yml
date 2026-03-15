@@ -2,8 +2,8 @@
 dataset: 
   # e.g. for scene 'figurines', data should be in `data/lerf-ovs/figurines`, and model would be saved in `output/lerf/figurines`
   name: LERF-OVS
-  data_path: data/lerf-ovs
-  save_folder: lerf
+  data_path: data/lerf_ovs
+  save_folder: lerf_ovs
   scenes: ['figurines', 'ramen', 'teatime', 'waldo_kitchen']
 
 graph_weight:
