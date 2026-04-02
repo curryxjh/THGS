@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2d-gaussian-splatting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2d-gaussian-splatting/submodules/diff-surfel-rasterization" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2d-gaussian-splatting/submodules/diff-surfel-rasterization/third_party/glm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2d-gaussian-splatting/submodules/simple-knn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ext/spt/dependencies/FRNN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ext/spt/dependencies/FRNN/external/prefix_sum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ext/spt/dependencies/grid_graph" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ext/spt/dependencies/parallel_cut_pursuit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ext/spt/dependencies/parallel_cut_pursuit/pcd-prox-split" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ext/spt/dependencies/parallel_cut_pursuit/pcd-prox-split/grid-graph" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ext/spt/dependencies/parallel_cut_pursuit/pcd-prox-split/matrix-tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ext/spt/dependencies/parallel_cut_pursuit/pcd-prox-split/proj-simplex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ext/spt/dependencies/parallel_cut_pursuit/wth-element" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/submodules/diff-surfel-rasterization" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/submodules/diff-surfel-rasterization/third_party/glm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/submodules/simple-knn" vcs="Git" />
+  </component>
+</project>
